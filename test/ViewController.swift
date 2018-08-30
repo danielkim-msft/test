@@ -7,10 +7,14 @@
 //
 
 import UIKit
+import AppCenter
+import AppCenterAnalytics
+import AppCenterCrashes
 
 class ViewController: UIViewController {
 
     @IBOutlet weak var lblTitle: UILabel!
+    @IBOutlet weak var invalid: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
@@ -22,10 +26,13 @@ class ViewController: UIViewController {
     }
 
     @IBAction func helloWorld(_ sender: UIButton) {
+        MSAnalytics.trackEvent("Hello event")
         lblTitle.text = "Hello World"
     }
     @IBAction func goodbyeWorld(_ sender: Any) {
+        MSAnalytics.trackEvent("Goodbye event")
         lblTitle.text = "Goodbye World"
+        invalid.text = "insert intentional crash";
     }
 }
 
