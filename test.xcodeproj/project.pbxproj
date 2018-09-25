@@ -884,7 +884,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.dkim.test.TodayExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "d9b92765-ab8a-4038-83cd-404c568f0784";
+				PROVISIONING_PROFILE = "7308b922-d3c7-40fd-bcf8-e8a5f9c454fa";
 				PROVISIONING_PROFILE_SPECIFIER = DanielKimTestAppWildcardAdHoc;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.0;
@@ -906,7 +906,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.dkim.test.TodayExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "d9b92765-ab8a-4038-83cd-404c568f0784";
+				PROVISIONING_PROFILE = "7308b922-d3c7-40fd-bcf8-e8a5f9c454fa";
 				PROVISIONING_PROFILE_SPECIFIER = DanielKimTestAppWildcardAdHoc;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.0;
