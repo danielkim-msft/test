@@ -791,8 +791,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.dkim.test.watchkitapp.watchkitextension;
 				PRODUCT_NAME = "${TARGET_NAME}";
-				PROVISIONING_PROFILE = "1ced063c-cf9a-4b90-ba94-3c457c01c0c7";
-				PROVISIONING_PROFILE_SPECIFIER = "App Store wild card test";
+				PROVISIONING_PROFILE = "d9b92765-ab8a-4038-83cd-404c568f0784";
+				PROVISIONING_PROFILE_SPECIFIER = DanielKimTestAppWildcardAdHoc;
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.0;
@@ -816,8 +816,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.dkim.test.watchkitapp.watchkitextension;
 				PRODUCT_NAME = "${TARGET_NAME}";
-				PROVISIONING_PROFILE = "1ced063c-cf9a-4b90-ba94-3c457c01c0c7";
-				PROVISIONING_PROFILE_SPECIFIER = "App Store wild card test";
+				PROVISIONING_PROFILE = "d9b92765-ab8a-4038-83cd-404c568f0784";
+				PROVISIONING_PROFILE_SPECIFIER = DanielKimTestAppWildcardAdHoc;
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.0;
@@ -838,8 +838,8 @@
 				INFOPLIST_FILE = watch/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.dkim.test.watchkitapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "1ced063c-cf9a-4b90-ba94-3c457c01c0c7";
-				PROVISIONING_PROFILE_SPECIFIER = "App Store wild card test";
+				PROVISIONING_PROFILE = "d9b92765-ab8a-4038-83cd-404c568f0784";
+				PROVISIONING_PROFILE_SPECIFIER = DanielKimTestAppWildcardAdHoc;
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.0;
@@ -860,8 +860,8 @@
 				INFOPLIST_FILE = watch/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.dkim.test.watchkitapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "1ced063c-cf9a-4b90-ba94-3c457c01c0c7";
-				PROVISIONING_PROFILE_SPECIFIER = "App Store wild card test";
+				PROVISIONING_PROFILE = "d9b92765-ab8a-4038-83cd-404c568f0784";
+				PROVISIONING_PROFILE_SPECIFIER = DanielKimTestAppWildcardAdHoc;
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.0;
@@ -884,8 +884,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.dkim.test.TodayExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "1ced063c-cf9a-4b90-ba94-3c457c01c0c7";
-				PROVISIONING_PROFILE_SPECIFIER = "App Store wild card test";
+				PROVISIONING_PROFILE = "d9b92765-ab8a-4038-83cd-404c568f0784";
+				PROVISIONING_PROFILE_SPECIFIER = DanielKimTestAppWildcardAdHoc;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -906,8 +906,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.dkim.test.TodayExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "1ced063c-cf9a-4b90-ba94-3c457c01c0c7";
-				PROVISIONING_PROFILE_SPECIFIER = "App Store wild card test";
+				PROVISIONING_PROFILE = "d9b92765-ab8a-4038-83cd-404c568f0784";
+				PROVISIONING_PROFILE_SPECIFIER = DanielKimTestAppWildcardAdHoc;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -928,8 +928,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.dkim.test.ShareExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "1ced063c-cf9a-4b90-ba94-3c457c01c0c7";
-				PROVISIONING_PROFILE_SPECIFIER = "App Store wild card test";
+				PROVISIONING_PROFILE = "d9b92765-ab8a-4038-83cd-404c568f0784";
+				PROVISIONING_PROFILE_SPECIFIER = DanielKimTestAppWildcardAdHoc;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -950,8 +950,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.dkim.test.ShareExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "1ced063c-cf9a-4b90-ba94-3c457c01c0c7";
-				PROVISIONING_PROFILE_SPECIFIER = "App Store wild card test";
+				PROVISIONING_PROFILE = "d9b92765-ab8a-4038-83cd-404c568f0784";
+				PROVISIONING_PROFILE_SPECIFIER = DanielKimTestAppWildcardAdHoc;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1111,7 +1111,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.dkim.test;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "48da4523-4934-44bb-85ca-6edec1a0fff6";
+				PROVISIONING_PROFILE = "e3db0010-e4da-4266-83a9-f35cd377b201";
 				PROVISIONING_PROFILE_SPECIFIER = DanielKimTestAppAdHoc;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
