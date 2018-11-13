@@ -32,7 +32,7 @@ class ViewController: UIViewController {
     @IBAction func goodbyeWorld(_ sender: Any) {
         MSAnalytics.trackEvent("Goodbye event")
         lblTitle.text = "Goodbye World"
-        invalid.text = "insert intentional crash";
+        //invalid.text = "insert intentional crash";
     }
 }
 
